@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580688416777",
+    "project_id": "course90-authservice",
+    "storage_bucket": "course90-authservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580688416777:android:957b38b5c266330c74e8d8",
+        "android_client_info": {
+          "package_name": "com.thrillseeker.prototype_try_two"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzGxJtASLKnQoKq1WSSFQHKojz9L-g5nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

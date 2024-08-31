@@ -1,0 +1,1 @@
+To enable Firebase on the native Android and iOS platforms, create and download Service Account files for each platform from your Firebase project.
