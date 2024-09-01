@@ -1,12 +1,8 @@
-import { View, Text } from "react-native";
 import React from "react";
+import Login from "./(auth)/login";
 
-const index = () => {
-  return (
-    <View>
-      <Text>index</Text>
-    </View>
-  );
+const Index = () => {
+  return <Login />;
 };
 
-export default index;
+export default Index;
